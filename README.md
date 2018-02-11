@@ -1,2 +1,2 @@
-# data_mining_studies
+# data mining studies
 Repo for study data mining
