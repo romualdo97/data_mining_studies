@@ -1,0 +1,27 @@
+lunes (python)
+1) preparar datos [x]
+2) aplicar metodos: 
+	metodo de regresion [x]
+	arbol de decision [x]
+3) analizar resultados obtenidos 
+4) entender y explicar cuales fueron los parametros optimos para cada metodo
+	
+martes (python)
+1) aplicacar metodos:
+	metodo bayesiano
+	metodo basado en ejemplos
+	maquina de soporte vectorial
+	redes neuronales
+2) analizar resultados obtenidos
+4) entender y explicar cuales fueron los paremetros optimos para cada metodo
+
+miercoles (python/weka)
+1) continuar entendiendo y explicando cuales fueron los paremetros optimos para cada metodo
+2) preparar datos en weka, guiandose de lo hecho ne python el lunes
+3) aplicar todos los metodos en weka
+
+jueves (R)
+1) preparar datos en R, guiandose de lo hecho ne python el lunes
+2) aplicar todos los metodos en R
+
+
