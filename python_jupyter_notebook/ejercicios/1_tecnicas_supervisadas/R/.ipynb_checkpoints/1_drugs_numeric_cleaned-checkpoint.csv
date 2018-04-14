@@ -1,14 +1,4 @@
-@relation 'Drug_prepared-weka.filters.unsupervised.attribute.NumericCleaner-min0.0-min-defaultNaN-max100.0-max-defaultNaN-closeto0.0-closeto-default0.0-closeto-tolerance1.0E-6-R1,5-decimals-1-weka.filters.unsupervised.instance.RemoveWithValues-S-1.0-C1-Lfirst-last-M-weka.filters.unsupervised.instance.RemoveWithValues-S-1.0-C5-Lfirst-last-M-weka.filters.supervised.instance.SMOTE-C0-K5-P100.0-S1'
-
-@attribute Age numeric
-@attribute Sex {F,M}
-@attribute Blood_Pressure {HIGH,LOW,NORMAL}
-@attribute Cholesterol {HIGH,NORMAL}
-@attribute Na numeric
-@attribute K numeric
-@attribute Drug {drugY,drugC,drugX,drugA,drugB}
-
-@data
+Age,Sex,Blood_Pressure,Cholesterol,Na,K,Drug
 23,F,HIGH,HIGH,0.792535,0.031258,drugY
 47,M,LOW,HIGH,0.739309,0.056468,drugC
 47,M,LOW,HIGH,0.697269,0.068944,drugC
@@ -207,19 +197,3 @@
 52,M,NORMAL,HIGH,0.549945,0.055581,drugX
 23,M,NORMAL,NORMAL,0.78452,0.055959,drugX
 40,F,LOW,NORMAL,0.683503,0.060226,drugX
-47,M,LOW,HIGH,0.72218,0.05692,drugC
-47,M,LOW,HIGH,0.696306,0.054176,drugC
-44.324434,M,LOW,HIGH,0.884531,0.072718,drugC
-47,M,LOW,HIGH,0.837601,0.072499,drugC
-25.696298,F,LOW,HIGH,0.615781,0.075483,drugC
-69.512808,M,LOW,HIGH,0.69567,0.073366,drugC
-25.98059,F,LOW,HIGH,0.534256,0.041376,drugC
-33.278204,F,LOW,HIGH,0.748091,0.0721,drugC
-48.909862,M,LOW,HIGH,0.571415,0.055248,drugC
-27.935894,F,LOW,HIGH,0.635418,0.0526,drugC
-23.26575,F,LOW,HIGH,0.553258,0.066812,drugC
-48.564796,F,LOW,HIGH,0.691548,0.060849,drugC
-57.838249,F,LOW,HIGH,0.696973,0.062681,drugC
-70.442092,M,LOW,HIGH,0.593319,0.061528,drugC
-54.143913,F,LOW,HIGH,0.778535,0.063542,drugC
-23.091399,F,LOW,HIGH,0.736887,0.075242,drugC
